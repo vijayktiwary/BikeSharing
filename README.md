@@ -44,7 +44,7 @@ Develop a model  for the demand for shared bikes with the available independent 
 
 - This project was done part of my Executive PG Programme in Machine Learning & AI - April 2022 batch
 - Thanks to Mirza Rahim Beig,S Anand and Dinesh Babu for imparting the knowledge on EDA and Linear Regresion.
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on [this tutorial](https://www.upgrad.com).
 
 
 ## Contact
